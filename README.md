@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekborad001" alt="abhishekborad001" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **boradabhishek333@gmail.com**
+- 📫 How to reach me **abhishekborad001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
